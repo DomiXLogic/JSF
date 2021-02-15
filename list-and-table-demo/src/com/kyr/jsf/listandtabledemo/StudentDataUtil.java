@@ -24,7 +24,7 @@ public class StudentDataUtil {
 		students.add(new Student("Garyfallia","Fountoukopoulou","garyfalliaF@gmail.com"));
 		students.add(new Student("Matoula","Katsara","katsara.matoula@gmail.com"));
 		students.add(new Student("Kwnstantina","Katsara","katsara.Kwnst@gmail.com"));
-		students.add(new Student("Basw","Vgenopoulou","vgen@gmail.com"));
+		students.add(new Student("Baso","Vgenopoulou","vgen@gmail.com"));
 	 }
 
 
